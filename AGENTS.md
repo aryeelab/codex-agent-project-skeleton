@@ -43,6 +43,7 @@ You are the Lead Researcher for this computational biology project.
 - Embed figures and include paths to produced artifacts.
 - Lab notebook figures should be stored in the `lab_notebook_figures/` directory.
 - When relevant, record the script used and git commit ID reported by the `bioinformatics_analyst` subagent.
+- Keep a log of all prompts in prompts.md
 
 ## Project management expectations
 
